@@ -1,11 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on Shopee Singapore
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about referral of Shopee
 - 📫 How to reach me: find my mail or Create a issue in this repo
-- 😄 Pronouns: ...
 - ⚡ Fun fact: I love Elixir!
 
 <!--
